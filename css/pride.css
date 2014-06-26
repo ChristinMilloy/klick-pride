@@ -50,6 +50,12 @@
     				padding: 20px 0;
     				background-color: #730067;
 				}
+				
+		.footer .button a img{
+					display: block;
+					margin-left:auto;
+					margin-right:auto;
+				}
 
 		.button {
 					margin-left: auto;
@@ -85,7 +91,9 @@
 		}
 		
 		div.year img{
-			display:block; margin-left:auto; margin-right:auto;
+			display:block;
+			margin-left:auto;
+			margin-right:auto;
 		}
 		
 		div.data-point.node:after{
