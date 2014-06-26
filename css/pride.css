@@ -1,0 +1,97 @@
+
+		body {
+				margin: 60px auto 0px auto ;
+				background-image: url(images/1440.jpg) ;
+				height:100%;
+				width:100%;
+			}
+
+		.banner {
+					height: 60px;
+					width: 100%;
+    				margin: 0 auto;
+    				position: fixed;
+    				left: 0;
+    				top:0;
+    				padding: 0;
+    				background-color: #000000;
+				}
+
+		.p-wrapper {
+						position: absolute;
+						left: 25px;
+						top: 70px;
+						width: 475px;
+					}
+
+		.p-container {
+						background-color: #313132;
+						color: #ffffff;
+						font-size: 20px;
+						font-family: 'Open Sans';
+						font-weight: 300;
+						line-height: 130%;
+						padding: 20px 15px;
+						
+					}
+
+		.scroller {
+					position: relative;
+
+				}
+
+		.footer {
+					height: 60px;
+					width: 100%;
+    				margin: 0 auto;
+    				position: fixed;
+    				left: 0;
+    				bottom:0;
+    				padding: 20px 0;
+    				background-color: #730067;
+				}
+
+		.button {
+					margin-left: auto;
+					margin-right: auto;
+					width: 555px;
+					padding: 15px 0;
+					background-color: #e21e79;
+					box-shadow: 5px 5px 5px #b83ab3;
+		}
+
+		.data-point {
+						width: 180px;
+						position: absolute;
+						top: 60px;
+					}
+
+		.year {
+				background-color: #e21e79;
+				padding: 15px 0;
+				}
+
+		.description {
+						background-color: #000000;
+						padding: 15px 15px;
+						font-size: 19px;
+						font-family: 'Open Sans';
+						font-weight: 300;
+						color: #ffffff;
+					}
+
+		.filler {
+					width: 600px;
+		}
+		
+		div.year img{
+			display:block; margin-left:auto; margin-right:auto;
+		}
+		
+		div.data-point.node:after{
+			height:316px;
+			width:153px;
+			display:block;
+			content: url('../images/node.png');
+		}
+		
