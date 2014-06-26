@@ -1,0 +1,49 @@
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1403287652234">
+  <folder name="css">
+    <file name="site_global.css" crc="208753328"/>
+    <file name="index.css" crc="257751486" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index"/>
+    <file name="museutils.js" crc="212726984" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="519931148" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1440.jpg" crc="4172418042" ref="index"/>
+    <file name="top_logo.png" crc="4015174843" ref="index"/>
+    <file name="thing.png" crc="3791853022" ref="index"/>
+    <file name="node.png" crc="332106708" ref="index"/>
+    <file name="u142-4.png" crc="36093260" ref="index"/>
+    <file name="u537-4.png" crc="4082360317" ref="index"/>
+    <file name="constellar.png" crc="215986004" ref="index"/>
+    <file name="u215-4.png" crc="4286769202" ref="index"/>
+    <file name="thing_big_blur.png" crc="463529930" ref="index"/>
+    <file name="u243-4.png" crc="499030785" ref="index"/>
+    <file name="u259-4.png" crc="209100295" ref="index"/>
+    <file name="u316-4.png" crc="235269152" ref="index"/>
+    <file name="u318-4.png" crc="3828752736" ref="index"/>
+    <file name="u317-4.png" crc="4113786349" ref="index"/>
+    <file name="u359-4.png" crc="192911080" ref="index"/>
+    <file name="u370-4.png" crc="3940135476" ref="index"/>
+    <file name="u368-4.png" crc="4097016397" ref="index"/>
+    <file name="u455-4.png" crc="3906929580" ref="index"/>
+    <file name="u451-4.png" crc="3906929580" ref="index"/>
+    <file name="u464-4.png" crc="387757817" ref="index"/>
+    <file name="u507-4.png" crc="522420136" ref="index"/>
+    <file name="u523-10.png" crc="3987769480" ref="index"/>
+    <file name="arrow_down.png" crc="264725757" ref="index"/>
+    <file name="u813-4.png" crc="4143369044" ref="index"/>
+    <file name="leaf_crisp.png" crc="3818098963" ref="index"/>
+    <file name="leaf_blur118x118.png" crc="314175839" ref="index"/>
+    <file name="leaf_blur.png" crc="3822168818" ref="index"/>
+    <file name="mountain.png" crc="3841874940" ref="index"/>
+    <file name="mountain2.png" crc="3798090320" ref="index"/>
+    <file name="rainbow_thing.png" crc="3909315172" ref="index"/>
+    <file name="rainbow_thing4.png" crc="4218126800" ref="index"/>
+    <file name="rainbow_thing3.png" crc="3943144761" ref="index"/>
+    <file name="rainbow_thing2.png" crc="4272174740" ref="index"/>
+    <file name="world.png" crc="77324737" ref="index"/>
+    <file name="u747-4.png" crc="27270730" ref="index"/>
+  </folder>
+  <file name="index.html" crc="44414432" mt="1403286282412" redirect="true"/>
+</manifest>
