@@ -1,9 +1,10 @@
 
+		html{
+				min-height:100%;
+		}
 		body {
 				margin: 60px auto 0px auto ;
-				background-image: url(images/1440.jpg) ;
-				height:100%;
-				width:100%;
+				background-image: url(images/1440.jpg);
 			}
 
 		.banner {
@@ -37,7 +38,6 @@
 
 		.scroller {
 					position: relative;
-
 				}
 
 		.footer {
