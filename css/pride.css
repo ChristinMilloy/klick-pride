@@ -55,15 +55,27 @@
 					display: block;
 					margin-left:auto;
 					margin-right:auto;
+					padding-bottom: 0;
 				}
 
 		.button {
 					margin-left: auto;
 					margin-right: auto;
-					width: 555px;
+					width: 100%;
+					max-width: 449px;
 					padding: 15px 0;
 					background-color: #e21e79;
 					box-shadow: 5px 5px 5px #b83ab3;
+		}
+
+		.button #joinButton {
+			background: url('../images/u537-4.png') no-repeat;
+			background-size: contain;
+			display: block;
+			width: 90%;
+			margin: 0 5%;
+			height: 55px;
+
 		}
 
 		.data-point {
@@ -103,3 +115,4 @@
 			content: url('../images/node.png');
 		}
 		
+
